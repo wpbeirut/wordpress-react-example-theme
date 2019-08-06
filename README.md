@@ -4,6 +4,12 @@ for everyone who requested the code for the react theme after the "Using Wordpre
 
 
 
+## Link for the slide show:
+
+https://docs.google.com/presentation/d/1jgQOMYxWEpC5stjcO8NO6LDzbW4vVCZd0kG7zaVkk5I/edit?usp=sharing
+
+
+
 ## what includes in this folder:
 
 a test-theme folder which you drag it to your themes folder and activate it
